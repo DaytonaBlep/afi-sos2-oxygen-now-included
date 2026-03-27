@@ -31,7 +31,7 @@ The goal is to:
 - Oxygen leaks through holes in the hull and vents directed into the vacuum. All vents-connected rooms lose their atmosphere
 - Pawns consume oxygen based on body size if Hypoxia Resistance stat is lower than 100%
 - SOS2 life support systems override plant oxygen when active
-- Emergency Supply: When Life Support is off, all previously breathing rooms have 15% atmosphere quality.
+- Emergency Supply: When Life Support is off, all previously breathable rooms have 15% atmosphere quality.
 - When a pawn is in an atmosphere with more than 10% oxygen, it will be exposed to hediffs that can act as an oxygen level indicator, such as "Depleted atmosphere (15%)." Air quality can also be found in the growing plant tooltip, which also provides information on generation rate and reasons why oxygen is not being generated (too dark, too hot, or too cold). The only way to know the air quality in a room now, I was planning other methods
 
 ## What I planned but didn't do
