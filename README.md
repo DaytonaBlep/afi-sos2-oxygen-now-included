@@ -43,7 +43,6 @@ The goal is to:
 - Thoughts from a lack of oxygen, an enriched atmosphere, and an excess of oxygen, for example, "Slept in stale air", "It's easy to breathe", etc.
 - An oximeter, a wall device, allows you to monitor oxygen levels and alerts you on the interface if the oxygen level in room goes beyond safe levels (similar to warnings about "need treatment," "not enough food," or "fatal diseases"), i think it must colored yellow or red?
 - I tried to implement the air quality widget into the interface where SOS2 shows "Non-Brethable/Brethable/Breach/Vacuum" info, but I failed
-- 
 
 ## Requirements
 
