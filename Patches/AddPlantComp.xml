@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[category="Plant"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[category="Plant"]</xpath>
+      <value>
+        <comps />
+      </value>
+    </nomatch>
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[category="Plant"]/comps</xpath>
+    <value>
+      <li Class="OxygenNowIncluded.CompProperties_BreathablePlant">
+        <compClass>OxygenNowIncluded.Comp_BreathablePlant</compClass>
+        <oxygenProductionPerDay>7.5</oxygenProductionPerDay>
+        <minLightLevel>0.3</minLightLevel>
+        <minTemperature>12</minTemperature>
+        <maxTemperature>42</maxTemperature>
+      </li>
+    </value>
+  </Operation>
+</Patch>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OxygenLevel>Breathability: {0}%</OxygenLevel>
+  <OxygenDepletedWarning>Oxygen depleted in this area</OxygenDepletedWarning>
+  <OxygenEnriched>Oxygen enriched</OxygenEnriched>
+  <OxygenNormal>Normal oxygen level</OxygenNormal>
+  <OxygenFromPlants_CompName>Oxygen Producing Plant</OxygenFromPlants_CompName>
+  <OxygenFromPlants_CompDesc>This plant produces oxygen in enclosed rooms.</OxygenFromPlants_CompDesc>
+</LanguageData>

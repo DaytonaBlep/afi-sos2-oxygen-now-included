@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+
+# NuGet
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# RimWorld specific
+*.rws
+*.rww
+*.rwm
+*.rwworld
+
+# Mod packaging
+*.zip
+*.7z
+
+# Development
+*.unityproj
